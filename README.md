@@ -27,6 +27,15 @@ Navigate to the cloned repository folder. Open the folder using Visual Studio Co
 
 <br />
 
+In the terminal, use below command to install all dependencies for the frontend application.
+```bash
+npm install
+# or
+yarn install
+```
+
+<br />
+
 In the terminal, run the frontend application using below command.
 ```bash
 npm run dev
@@ -36,18 +45,31 @@ yarn dev
 
 <br />
 
-In the terminal, use below command to navigate to the backend folder.
+Open a new terminal. In the new terminal, use below command to navigate to the backend folder.
 ```sh
 cd backend
 ```
 
 <br />
 
+In the terminal, use below command to install all dependencies for the backend server.
+```bash
+npm install
+# or
+yarn install
+```
+
+<br />
+
+Locate the ".env.example" file in the backend folder. Create a new ".env" file in the same level and copy the contents from the ".env.example" file. Add your access token(s) to the variable(s) in the ".env" file. If you do not have the access token(s), please visit this [link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+
+<br />
+
 In the terminal, run the backend server using below command.
 ```bash
-npm run start
+npm start
 # or
-yarn run start
+yarn start
 ```
 
 <br />
