@@ -18,7 +18,7 @@ The major languages and frameworks/libraries that are used to build this project
 
 Open the terminal and navigate to your preferred directory. Clone the repository using below command.
 ```sh
-https://github.com/DaveT123/project-autocomplete-page.git
+git clone https://github.com/DaveT123/project-autocomplete-page.git
 ```
 
 <br />
