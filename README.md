@@ -10,7 +10,7 @@ A webpage that allows users to perform search on GitHub. A backend is built to p
 The major languages and frameworks/libraries that are used to build this project are shown below.
 
 * Front-End: React, Next.js, Tailwind CSS
-* Back-End: GitHub Search API
+* Back-End: Express.js, GitHub Search API
 
 <br />
 
